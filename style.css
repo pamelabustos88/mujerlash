@@ -1,0 +1,27 @@
+body {
+	background-color: blanchedalmond;
+}
+h1 {
+	font-family: bradley hand itc;
+	padding: 40px;
+}
+h2 {
+	background-color: lightpink;
+	font-family:Bahnschrift SemiBold;
+	margin:	100px;
+	padding: 10px;
+}
+h4 {
+	color: olive;
+	margin:	20px;
+	padding: 14px;
+	font-size: 20px;
+}
+
+img	{
+	width: 300px;
+	float: right;
+}
+ul {
+	font-size: 20px;
+}
